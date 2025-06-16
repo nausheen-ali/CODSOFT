@@ -10,7 +10,6 @@ A To-Do List application that helps users manage and organize their daily tasks 
 - Add new tasks
 - View current task list
 - Mark tasks as done or delete them
-- Save and load tasks from a file (optional)
 
 ### Technologies:
 - Python
